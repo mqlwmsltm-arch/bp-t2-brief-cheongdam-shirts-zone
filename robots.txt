@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://brief.cheongdam-shirts-zone.xyz/sitemap.xml
+Sitemap: https://brief.cheongdam-shirts-zone.xyz/sitemap-pages.xml
